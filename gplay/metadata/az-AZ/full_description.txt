@@ -1,0 +1,19 @@
+Co tuong Şərq bir ənənəvi board oyun.
+Bu Çin şahmat oyunu (co Tương, cờ tướng, xiangqi) bir əlamətdar rework edir. Gözəl qrafika və animasiya, gözəl səs və musiqi, ağıllı AI.
+
+Co tuong xüsusiyyətlərə malikdir:
+
+XÜSUSİYYƏTLƏRİ
+ - Təlim rejimi çətinlik 10 səviyyəsi.
+ - Sizin səhv hərəkət qaytar
+ - 4 board növləri ilə asanlıqla baxmaq olan board seçin.
+ - 4 parça müəyyən növ ilə sevimli parça seçin.
+ - 7 avatar növləri ilə profil Şəxsiləşdir.
+ - Gözəl qrafika və animasiya.
+ - Dinamik səs və rahat musiqi
+ - Support İngilis və Vyetnam
+
+BİZİMLƏ ƏLAQƏ SAXLAYIN:
+ - Http://www.senspark.com bizim rəsmi saytına müraciət edin
+ - Feedback@senspark.com vasitəsilə Əlaqə göndər
+ - Like & https://www.facebook.com/TeamSenspark edin

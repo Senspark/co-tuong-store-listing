@@ -1,0 +1,19 @@
+This is a remarkable rework on Chinese Chess game with the beautiful graphics and animation, nice sound and music, intelligent AI.
+
+The game has features:
+
+- 10 levels of difficulty in training mode.
+
+- Undo
+
+- Select which board look easily with 4 board types.
+
+- Choose your favorite piece with 4 piece set types.
+
+- Personalize your profile with 7 avatar types.
+
+- Beatiful graphics and animations.
+
+- Dynamic sound and comfortable music
+
+- Support English and Vietnamese

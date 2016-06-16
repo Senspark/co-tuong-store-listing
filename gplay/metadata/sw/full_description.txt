@@ -1,0 +1,19 @@
+Co tuong ni jadi bodi mchezo kutoka Mashariki.
+Hii ni rework ya ajabu juu ya Kichina Chess mchezo (co tuong, cờ Tường, xiangqi). Beautiful graphics na uhuishaji, nzuri sauti na muziki, akili AI.
+
+Co tuong ina sifa:
+
+VIPENGELE
+ - 10 ngazi ya ugumu katika hali ya mafunzo.
+ - Undo makosa hatua yako
+ - Chagua ambayo bodi kuangalia kwa urahisi na aina 4 ya bodi.
+ - Chagua kipande yako favorite na 4 kipande kuweka aina.
+ - Ya binafsi profile yako na aina 7 avatar.
+ - Beautiful graphics na mifano kwa michoro.
+ - Dynamic sauti na starehe muziki
+ - Support Kiingereza na Vietnamese
+
+WASILIANA NASI:
+ - Ziara tovuti yetu rasmi katika http://www.senspark.com
+ - Tuma maoni yako kupitia feedback@senspark.com
+ - Like & kufuata juu https://www.facebook.com/TeamSenspark

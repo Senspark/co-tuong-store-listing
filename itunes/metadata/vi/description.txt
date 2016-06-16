@@ -1,0 +1,24 @@
+Đây là bản cờ tướng được đầu tư làm lại rất nổi bật với đồ hoạ và hoạt hoạ đẹp mặt, âm thanh và nhạc nền hay, máy đánh hay, chơi trực tuyến với mọi người.
+
+Game có các chức năng:
+
+- Chế độ luyện tập: chơi với máy.
+    + 10 mức độ khó
+    + Đi lại nước đi
+
+- Chế độ trực tuyến: chơi với mọi người.
+    + Tạo trận đấu của riêng bạn.
+    + Tham gia vào các trận có sẵn.
+    + Tự động kết nối lại khi có lỗi mạng.
+
+- Chọn kiểu bàn cờ dễ nhìn với 4 loại bàn cờ.
+
+- Chọn kiểu quân cờ bạn ưa thích với 4 loại quân cờ.
+
+- Cá tính tài khoản của bạn với 7 loại avatar.
+
+- Đồ hoạ và hoạt hoạ đẹp mắt
+
+- Âm thanh sống động nhạc nền dễ chịu.
+
+- Hỗ trợ tiếng Anh và tiếng Việt.

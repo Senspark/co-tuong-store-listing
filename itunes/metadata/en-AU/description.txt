@@ -1,0 +1,19 @@
+Co tuong is a traditional board game from Eastern.
+This is a remarkable rework on Chinese Chess game (co tuong, cờ tướng, xiangqi) . Beautiful graphics and animation, nice sound and music, intelligent AI.
+
+Co tuong has the features:
+
+FEATURES
+- 10 levels of difficulty in training mode.
+- Undo your mistake moves
+- Select which board look easily with 4 board types.
+- Choose your favourite piece with 4 piece set types.
+- Personalise your profile with 7 avatar types.
+- Beautiful graphics and animations.
+- Dynamic sound and comfortable music
+- Support English and Vietnamese
+
+CONTACT US:
+- Visit our official site at http://www.senspark.com
+- Send your feedback via feedback@senspark.com
+- Like & follow on https://www.facebook.com/TeamSenspark

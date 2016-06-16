@@ -1,0 +1,19 @@
+Co Tuong je tradicionalna igra na ploči s istočne.
+To je izvanredan ponovni rad na kineski šah (ko Tuong, CO Tuong, xiangqi). Prekrasna grafika i animacija, lijep zvuk i glazba, Inteligentni AI.
+
+Co Tuong ima značajke:
+
+ZNAČAJKE
+ - 10 razina težine u načinu treninga.
+ - Poništi pogrešku poteze
+ - Odaberite ploča izgleda lako s 4 vrste odbora.
+ - Odaberite svoj omiljeni komad sa 4 komada postavljene tipove.
+ - Personalizirajte svoj profil sa 7 vrsta avatar.
+ - Prekrasna grafika i animacije.
+ - Dinamički zvuk i udobna glazba
+ - Podrška engleski i vijetnamski
+
+KONTAKTIRAJTE NAS:
+ - Posjetite našu službenu stranicu na http://www.senspark.com
+ - Pošaljite povratne informacije putem feedback@senspark.com
+ - Kao i pratiti na https://www.facebook.com/TeamSenspark

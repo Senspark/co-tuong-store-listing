@@ -1,0 +1,19 @@
+Co tuong ay isang tradisyunal na board game mula sa Eastern.
+Ito ay isang kapuna-puna rework sa Chinese Chess laro (co tuong, cờ Tuong, xiangqi). Magandang graphics at animation, maganda ang tunog at musika, intelligent Ai.
+
+Co tuong ay ang mga tampok:
+
+TAMPOK
+ - 10 antas ng kahirapan sa pagsasanay mode.
+ - I-undo ang iyong pagkakamali gumagalaw
+ - Piliin kung aling board tumingin madali na may 4 na uri board.
+ - Piliin ang iyong mga paboritong piraso na may 4 na piraso set uri.
+ - Isapersonal ang iyong profile na may 7 uri avatar.
+ - Maganda graphics at animation.
+ - Dynamic tunog at kumportable music
+ - Suporta ng Ingles at Vietnamese
+
+MAKIPAG-UGNAYAN SA AMIN:
+ - Bisitahin ang aming opisyal na site sa http://www.senspark.com
+ - Ipadala ang iyong puna sa pamamagitan ng feedback@senspark.com
+ - Like & sundin sa https://www.facebook.com/TeamSenspark

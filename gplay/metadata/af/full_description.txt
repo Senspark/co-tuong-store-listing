@@ -1,0 +1,19 @@
+Co Tuong is 'n tradisionele bordspel uit Oos.
+Dit is 'n merkwaardige herwerken op Chinese skaak spel (mede Tuong, mede Tuong, xiangqi). Pragtige grafika en animasie, mooi klank en musiek, intelligente AI.
+
+Co Tuong het die funksies:
+
+KENMERKE
+ - 10 vlakke van moeilikheidsgraad in opleiding af.
+ - Herroep jou fout beweeg
+ - Kies watter raad maklik lyk met 4 tipes raad.
+ - Kies jou gunsteling stuk, saam met 4 stuk stel tipes.
+ - Verpersoonlik jou profiel met 7 soorte pad.
+ - Pragtige beelde en animasie.
+ - Dynamic klank en gemaklike musiek
+ - Support Engels en Viëtnamese
+
+KONTAK ONS:
+ - Besoek ons amptelike webwerf by http://www.senspark.com
+ - Stuur jou terugvoer via feedback@senspark.com
+ - Soos & volg op https://www.facebook.com/TeamSenspark

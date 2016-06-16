@@ -1,0 +1,19 @@
+Co Tuong é um jogo de tabuleiro tradicional do Leste.
+Este é um retrabalho notável sobre jogo de Xadrez Chinês (co Tuong, Tuong Co, xiangqi). Belos gráficos e animação, som agradável e música, Inteligente AI.
+
+Co Tuong tem as características:
+
+CARACTERÍSTICAS
+ - 10 níveis de dificuldade no modo de treino.
+ - Desfazer seus movimentos erro
+ - Escolha a placa de olhar facilmente com 4 tipos de tabuleiro.
+ - Escolha a sua peça favorita com tipos Set 4 peças.
+ - Personalize o seu perfil com 7 tipos avatar.
+ - Belos gráficos e animações.
+ - Som dinâmico e música confortável
+ - Suporte Inglês e vietnamita
+
+CONTATE-NOS:
+ - Visite o nosso site oficial em http://www.senspark.com
+ - Feedback via feedback@senspark.com
+ - Como & siga em https://www.facebook.com/TeamSenspark

@@ -1,0 +1,19 @@
+Co tuong kuyinto bendabuko ibhodi game kusuka Eastern.
+Lena sibuyekeze ephawulekayo kwamaShayina Chess game (co tuong, Tường Co, xiangqi). Ihluzo Beautiful and izithombe, umsindo nice nomculo, AI ezihlakaniphile.
+
+Co tuong has izici:
+
+EZIPHUMA
+ - Amazinga 10 of nobunzima ekuqeqesheni mode.
+ - Hlehlisa iphutha lakho uhamba
+ - Khetha ukuthi iyiphi ebhodini bheka kalula nge 4 izinhlobo ebhodini.
+ - Khetha ucezu eziyizintandokazi zakho nge 4 ucezu setha izinhlobo.
+ - Yenza iphrofayli yakho nge isithombe izinhlobo 7.
+ - Ihluzo Beautiful and animations.
+ - Sound Dynamic nomculo zikhululekile
+ - Support English and Vietnamese
+
+XHUMANA NATHI:
+ - Vakashela ingosi yethu engokomthetho at http://www.senspark.com
+ - Thumela impendulo yakho nge feedback@senspark.com
+ - Like & ukulandela https://www.facebook.com/TeamSenspark

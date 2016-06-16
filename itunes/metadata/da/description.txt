@@ -1,0 +1,19 @@
+Co Tuong er en traditionel brætspil fra østlige.
+Dette er en bemærkelsesværdig rework på kinesisk skak spil (co Tuong, co Tuong, Xiangqi). Smuk grafik og animation, flot lyd og musik, intelligent AI.
+
+Co Tuong har de funktioner:
+
+FUNKTIONER
+ - 10 sværhedsgrader i træningstilstand.
+ - Fortryd dine fejl bevæger
+ - Vælg, hvilket bord ser nemt med 4 bestyrelsesmedlemmer typer.
+ - Vælg din favorit stykke med 4 stykke fastsatte typer.
+ - Tilpas din profil med 7 avatar typer.
+ - Smuk grafik og animationer.
+ - Dynamisk lyd og komfortabel musik
+ - Støtte engelsk og vietnamesisk
+
+KONTAKT OS:
+ - Besøg vores officielle hjemmeside på http://www.senspark.com
+ - Send din tilbagemelding via feedback@senspark.com
+ - Ligesom & følg på https://www.facebook.com/TeamSenspark

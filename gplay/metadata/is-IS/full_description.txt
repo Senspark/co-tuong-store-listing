@@ -1,0 +1,19 @@
+Co Tuong er hefðbundin borðspil frá Austur.
+Þetta er merkilegt rework á kínversku Chess leik (co TUONG, co TUONG, xiangqi). Falleg grafík og fjör, gott hljóð og tónlist, greindur AI.
+
+Co Tuong hefur eiginleika:
+
+Eiginleikar
+ - 10 stig af erfiðleikum í ham þjálfun.
+ - Losið Mistake færist
+ - Veldu hvaða borð líta auðveldlega með 4 borð gerðum.
+ - Veldu uppáhalds stykki með 4 stykki sett gerðum.
+ - Eigið upplýsingar með 7 avatar gerðum.
+ - Falleg grafík og fjör.
+ - Dynamic hljóð og þægileg tónlist
+ - Stuðningur ensku og víetnamska
+
+HAFÐU SAMBAND VIÐ OKKUR:
+ - Heimsókn opinbera síðuna okkar á http://www.senspark.com
+ - Senda álit þitt um feedback@senspark.com
+ - Eins og fylgja á https://www.facebook.com/TeamSenspark

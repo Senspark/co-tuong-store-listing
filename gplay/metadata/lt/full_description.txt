@@ -1,0 +1,19 @@
+Bendras Tuong yra tradicinis stalo žaidimas iš Rytų.
+Tai yra puikus perdarymas kinų šachmatai (bendrai TUONG, CO TUONG, xiangqi). Graži grafika ir animacija, gražus garsas ir muzika, protingas AI.
+
+Bendras Tuong turi funkcijas:
+
+FUNKCIJOS
+ - 10 lygių sunkumų mokymo režimu.
+ - Atlaisvinkite savo klaidą juda
+ - Pasirinkite, kuriuos lenta atrodo lengvai su 4 valdybos tipų.
+ - Pasirinkite savo mėgstamą gabalas su 4 dalių rinkinys tipų.
+ - Nustatyti savo profilį su 7 avatarai tipų.
+ - Graži grafika ir animacija.
+ - Dinaminis garso ir patogus muzika
+ - Parama anglų ir Vietnamiečių
+
+SUSISIEKITE SU MUMIS:
+ - Aplankykite mūsų oficialų svetainėje adresu http://www.senspark.com
+ - Siųsti atsiliepimą per feedback@senspark.com
+ - Kaip ir sekite ant https://www.facebook.com/TeamSenspark

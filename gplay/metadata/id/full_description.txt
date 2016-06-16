@@ -1,0 +1,19 @@
+Co Tuong adalah permainan papan tradisional dari Timur.
+Ini adalah ulang luar biasa pada pertandingan Chinese Chess (co Tuong, Tuong CO, Xiangqi). grafis yang indah dan animasi, suara bagus dan musik, cerdas AI.
+
+Co Tuong memiliki fitur:
+
+FITUR
+ - 10 tingkat kesulitan dalam mode pelatihan.
+ - Undo bergerak kesalahan Anda
+ - Pilih yang papan terlihat mudah dengan 4 jenis papan.
+ - Pilih sepotong favorit Anda dengan 4 piece set jenis.
+ - Personalisasi profil Anda dengan 7 jenis avatar.
+ - Indah grafis dan animasi.
+ - Suara dinamis dan musik nyaman
+ - Dukungan bahasa Inggris dan Vietnam
+
+HUBUNGI KAMI:
+ - Kunjungi situs resmi kami di http://www.senspark.com
+ - Kirim masukan Anda melalui feedback@senspark.com
+ - Seperti & ikuti di https://www.facebook.com/TeamSenspark

@@ -1,0 +1,19 @@
+Co Tuong on perinteinen lautapeli Itä.
+Tämä on merkittävä muokata kiinalainen shakkipeli (co Tuong, CO Tuong, xiangqi). Kaunis grafiikka ja animaatio, mukava ääni ja musiikki, älykäs AI.
+
+Co Tuong on ominaisuuksia:
+
+OMINAISUUDET
+ - 10 vaikeustasoa harjoitustilassa.
+ - Kumoa virhe liikkuu
+ - Valitse board näyttävät helposti 4 emolevymalleihin.
+ - Valitse suosikki pala 4 osainen sarja tyypit.
+ - Muokkaa profiiliasi 7 avatar tyyppejä.
+ - Kaunis grafiikka ja animaatioita.
+ - Dynaaminen ääni ja mukava musiikki
+ - Tuki Englanti ja Vietnam
+
+OTA MEIHIN YHTEYTTÄ:
+ - Käy virallisella sivustolla osoitteessa http://www.senspark.com
+ - Lähetä palautetta kautta feedback@senspark.com
+ - Like & seurata https://www.facebook.com/TeamSenspark

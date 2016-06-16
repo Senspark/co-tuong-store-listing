@@ -1,0 +1,19 @@
+Co Tuong egy hagyományos társasjáték Kelet.
+Ez figyelemre méltó utómunka a kínai sakk játék (co Tuong, Co Tuong, xiangqi). Gyönyörű grafika és animáció, szép hang és a zene, intelligens AI.
+
+Co Tuong rendelkezik az alábbi jellemzőkkel:
+
+JELLEMZŐK
+ - 10 nehézségi fokú képzési mód.
+ - Oldja a hiba mozog
+ - Válassza ki, melyik tábla néz könnyen 4. tábla típusokat.
+ - Válassza ki a kedvenc darabja, 4 darabos készlet típusok.
+ - Személyre szabhatja profilját 7 avatar típusú.
+ - Gyönyörű grafika és animációk.
+ - Dinamikus hangzás és kényelmes zene
+ - Támogatás angol és vietnami
+
+LÉPJEN KAPCSOLATBA VELÜNK:
+ - Látogassa meg a hivatalos site-on http://www.senspark.com
+ - Küldj visszajelzést keresztül feedback@senspark.com
+ - Mint & követik https://www.facebook.com/TeamSenspark

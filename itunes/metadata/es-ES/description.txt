@@ -1,0 +1,19 @@
+Co tuong es un juego de mesa tradicional del Este.
+Esta es una notable reproceso en el juego de ajedrez chino (co tuong, tượng CO, xiangqi). Unos gráficos y animaciones, buen sonido y la música, inteligente AI.
+
+Co tuong tiene las características:
+
+CARACTERISTICAS
+ - 10 niveles de dificultad en el modo de entrenamiento.
+ - Deshacer su error se mueve
+ - Seleccione el tablero de mirar fácilmente con 4 tipos de mesa.
+ - Elija su pieza favorita con 4 pieza tipos establecidos.
+ - Personalice su perfil con 7 tipos de avatar.
+ - Hermosos gráficos y animaciones.
+ - Dinámica de sonido y la música cómoda
+ - Apoyo Inglés y vietnamita
+
+CONTÁCTENOS:
+ - Visita nuestro sitio oficial en http://www.senspark.com
+ - Envía tus comentarios a través de feedback@senspark.com
+ - Al igual que en https://www.facebook.com/TeamSenspark y sigue

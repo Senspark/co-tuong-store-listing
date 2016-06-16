@@ -1,0 +1,19 @@
+Co Tuong és un joc de taula tradicional de l'Est.
+Aquesta és una notable reprocés en el joc d'escacs xinesos (co Tuong, tượng CO, xiangqi). Uns gràfics i animacions, bon so i la música, intel·ligent AI.
+
+Co Tuong té les característiques:
+
+CARACTERÍSTIQUES
+ - 10 nivells de dificultat en la manera d'entrenament.
+ - Desfer el seu error es mou
+ - Seleccioneu el tauler de mirar fàcilment amb 4 tipus de taula.
+ - Trii la seva peça favorita amb 4 peça tipus establerts.
+ - Personalitzi el seu perfil amb 7 tipus d'avatar.
+ - Bells gràfics i animacions.
+ - Dinàmica de so i la música còmoda
+ - Suport Anglès i vietnamita
+
+CONTACTEU:
+ - Visita el nostre lloc oficial en http://www.senspark.com
+ - Envia els teus comentaris a través de feedback@senspark.com
+ - Igual que en https://www.facebook.com/TeamSenspark i segueix
